@@ -885,7 +885,7 @@
       -webkit-box-flex: 0;
       -ms-flex: 0 0 33.33333%;
       flex: 0 0 33.33333%;
-      max-width: 33.33333%; }
+      max-width: 50%; }
     .col-md-5 {
       -webkit-box-flex: 0;
       -ms-flex: 0 0 41.66667%;
@@ -6645,7 +6645,7 @@
     padding-left: 0.5rem !important; }
   
   .p-3 {
-    padding: 1rem !important; }
+    padding: 1rem}
   
   .pt-3,
   .py-3 {
