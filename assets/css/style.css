@@ -10051,10 +10051,10 @@
       border-bottom-right-radius: 20px;
   }
   .tourinfocontainer section h3{
-    padding-left: 7px;
+    padding-left: 7px !important;
   }
   .tourinfocontainer section h4{
-    padding-left: 17px;
+    padding-left: 17px !important;
   }
   
   .tourinfocontainer section h5{
@@ -10063,7 +10063,7 @@
       color: #212221;
       line-height: 1.9;
       font-size: 15px;
-      padding-left:22px;
+      padding-left:22px !important;
       
   }
   .tourinfocontainer section h5 span{
